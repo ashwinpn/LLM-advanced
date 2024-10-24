@@ -17,7 +17,7 @@ This repository focuses on common security risks for Large Language Models (LLMs
    - **Preventive Measures**:
      - Assume all LLM apps could be malicious.
      - **Monitor** prompts and responses for unusual behavior (flag known prompt injection patterns).
-     - Design LLMs with **LEPRR** (Least Exposure to Prompt Related Risks).
+     - Design LLMs with **LEPR** (Least Privilege Principle).
 
 #### Example:
 ```python
